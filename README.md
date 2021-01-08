@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello! 👋
+
+Hello! I am a first-generation immigrant student currently attending UC Irvine, pursuing a degree in Computer Engineering. 
+
+You can connect with me at
+https://www.linkedin.com/in/tan-huynh-736a1216a/
 
 <!--
 **tanhuynh226/tanhuynh226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
