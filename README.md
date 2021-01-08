@@ -1,8 +1,10 @@
 ### Hello! 👋
 
-Hello! I am a first-generation immigrant student currently attending UC Irvine, pursuing a degree in Computer Engineering. 
+I am a first-generation immigrant student currently attending UC Irvine, pursuing a degree in Computer Engineering. 
 
-You can connect with me at
+On my GitHub, you can find my school and personal pojects.
+
+You can connect with me at  
 https://www.linkedin.com/in/tan-huynh-736a1216a/
 
 <!--
