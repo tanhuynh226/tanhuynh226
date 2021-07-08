@@ -7,6 +7,8 @@ On my GitHub, you can find my school and personal pojects.
 You can connect with me at  
 https://www.linkedin.com/in/tan-huynh-736a1216a/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanhuynh226&layout=compact)](https://github.com/tanhuynh226?tab=repositories)
+
 <!--
 **tanhuynh226/tanhuynh226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
