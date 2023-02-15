@@ -2,7 +2,7 @@
 
 I am a first-generation immigrant student currently attending UC Irvine, pursuing a degree in Computer Engineering. 
 
-On my GitHub, you can find my school and personal pojects.
+On my GitHub, you can find my school and personal projects.
 
 You can connect with me at  
 https://www.linkedin.com/in/tan-huynh-736a1216a/
