@@ -5,7 +5,7 @@ I am a first-generation immigrant student currently attending UC Irvine, pursuin
 On my GitHub, you can find my school and personal projects.
 
 You can connect with me at  
-https://www.linkedin.com/in/tan-huynh-736a1216a/
+https://www.linkedin.com/in/tan-huynhh/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanhuynh226&layout=compact)](https://github.com/tanhuynh226?tab=repositories)
 
